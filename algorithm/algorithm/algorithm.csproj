@@ -45,6 +45,29 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sol1.cs" />
+    <Compile Include="Sol10.cs" />
+    <Compile Include="Sol11.cs" />
+    <Compile Include="Sol12.cs" />
+    <Compile Include="Sol13.cs" />
+    <Compile Include="Sol14.cs" />
+    <Compile Include="Sol15.cs" />
+    <Compile Include="Sol16.cs" />
+    <Compile Include="Sol17.cs" />
+    <Compile Include="Sol18.cs" />
+    <Compile Include="Sol19.cs" />
+    <Compile Include="Sol2.cs" />
+    <Compile Include="Sol20.cs" />
+    <Compile Include="Sol21.cs" />
+    <Compile Include="Sol22.cs" />
+    <Compile Include="Sol23.cs" />
+    <Compile Include="Sol3.cs" />
+    <Compile Include="Sol4.cs" />
+    <Compile Include="Sol5.cs" />
+    <Compile Include="Sol6.cs" />
+    <Compile Include="Sol7.cs" />
+    <Compile Include="Sol8.cs" />
+    <Compile Include="Sol9.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
