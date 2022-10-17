@@ -68,6 +68,9 @@
     <Compile Include="Sol7.cs" />
     <Compile Include="Sol8.cs" />
     <Compile Include="Sol9.cs" />
+    <Compile Include="SolX1.cs" />
+    <Compile Include="SolX2.cs" />
+    <Compile Include="SolX3.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
